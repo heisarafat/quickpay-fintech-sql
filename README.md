@@ -27,7 +27,7 @@ Sample data includes over 50 mock users and 1,000+ records across all tables.
 - What's the loan approval vs. rejection rate?  
 - Which users are at risk of churn due to inactivity?
 
-👉 Check `queries/analysis_queries.sql` for the actual SQL used.
+👉 Check `quickpay` for the actual SQL used.
 
 
 ## 🛠️ Tools Used
