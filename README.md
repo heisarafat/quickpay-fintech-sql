@@ -42,5 +42,6 @@ Sample data includes over 50 mock users and 1,000+ records across all tables.
 This project is a personal simulation built to showcase my SQL and data analytics skills.  
 Feel free to fork or reference it in your own learning!
 
+contact me [arafahibitoye@gmail.com]
 ---
 
